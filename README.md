@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/stats.svg" alt="5 apps in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh in production in 19 days" width="100%">
+<img src="assets/stats.svg" alt="8 apps built, 5 in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh from an empty page to a working app in 2 weeks" width="100%">
 
 <br><br>
 
@@ -33,7 +33,7 @@
 | **Architecture and shared packages** | Four internal packages the whole team builds on, including a design system of 40+ widgets. Clean Architecture, MVVM, SOLID. |
 | **Security and permissions** | InCenter's e-signatures and encryption, Be Trend's sub-account roles, secure storage in Hawsaba Utils. |
 | **Performance** | API caching that cuts calls for speed and lower server cost. Memory, app size and battery. |
-| **The whole product, alone** | Rayeh: the app, the back end and the admin panel, from an empty repository to a production build in 19 days. |
+| **The whole product, alone** | Rayeh: the app, the back end and the admin panel, from an empty page to a working app in two weeks. |
 | **Open source** | 3 packages on pub.dev (below). |
 | **Lead a team** | Own the team's code review standards at Alhawsaba. |
 | **AI-accelerated engineering, human-owned** | Cursor and Claude Code write the first draft; I own the spec, the architecture, the review and the release. Up to 10x more app code per working day on a new app. |
@@ -91,7 +91,7 @@ New projects deserve backing. Communities deserve better services. Both free. So
     <td align="center" width="33%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
   </tr>
   <tr>
-    <td valign="top"><b>Rayeh (رايح)</b>, free, in pilot<br>Find your minibus. See it coming. No sign-up. Piloting in Hadayek October, Egypt. Empty repository to a production build in 19 days.</td>
+    <td valign="top"><b>Rayeh (رايح)</b>, free, in pilot<br>Find your minibus. See it coming. No sign-up. Piloting in Hadayek October, Egypt. Empty page to a working app in two weeks.</td>
     <td valign="top"><b>Fatura (فاتورة)</b>, next up<br>A free point of sale for a small shop: sell, issue invoices and watch stock from one phone. No account, no server.</td>
     <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
   </tr>

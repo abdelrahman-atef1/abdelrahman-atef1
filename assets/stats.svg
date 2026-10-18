@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="5 apps in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh in production in 19 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="8 apps built, 5 in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh from an empty page to a working app in 2 weeks">
   <defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
     <g>
       <rect x="0" y="0" width="282" height="190" rx="16" fill="#0f172a"/>
-      <text x="141" y="96" text-anchor="middle" font-size="84" font-weight="800" fill="url(#n)">5</text>
-      <text x="141" y="136" text-anchor="middle" font-size="20" fill="#e2e8f0">apps in the stores</text>
-      <text x="141" y="162" text-anchor="middle" font-size="15" fill="#94a3b8">four in KSA, plus my own Rayeh</text>
+      <text x="141" y="96" text-anchor="middle" font-size="84" font-weight="800" fill="url(#n)">8</text>
+      <text x="141" y="136" text-anchor="middle" font-size="20" fill="#e2e8f0">apps built so far</text>
+      <text x="141" y="162" text-anchor="middle" font-size="15" fill="#94a3b8">5 of them in the stores</text>
     </g>
     <g>
       <rect x="306" y="0" width="282" height="190" rx="16" fill="#0f172a"/>
@@ -21,9 +21,9 @@
     </g>
     <g>
       <rect x="918" y="0" width="282" height="190" rx="16" fill="#0f172a"/>
-      <text x="1059" y="96" text-anchor="middle" font-size="84" font-weight="800" fill="url(#n)">19</text>
-      <text x="1059" y="136" text-anchor="middle" font-size="20" fill="#e2e8f0">days to production</text>
-      <text x="1059" y="162" text-anchor="middle" font-size="15" fill="#94a3b8">Rayeh, from an empty repo</text>
+      <text x="1059" y="96" text-anchor="middle" font-size="84" font-weight="800" fill="url(#n)">2</text>
+      <text x="1059" y="136" text-anchor="middle" font-size="20" fill="#e2e8f0">weeks to a working app</text>
+      <text x="1059" y="162" text-anchor="middle" font-size="15" fill="#94a3b8">Rayeh, from an empty page</text>
     </g>
   </g>
 </svg>
