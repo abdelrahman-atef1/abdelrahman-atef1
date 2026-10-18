@@ -1,52 +1,116 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Atef</h1>
-<h3 align="center">Mobile Application Developer | 3+ Years of Experience in Flutter | Clean Code Advocate 🚀</h3>
-<p align="center">I build scalable, high-performance cross-platform apps using Flutter and Firebase. I love crafting seamless UI/UX experiences and solving real-world problems with elegant code.</p>
+<div align="center">
 
-- 📫 How to reach me: **abdelrahman.atef.147@gmail.com**
+<img src="assets/banner.svg" alt="Abdelrahman Atef, Senior Flutter Developer" width="100%">
 
-<h3 align="left">📂 Portfolio:</h3>
-<p>
-🚀 Curious about what I’ve built?  
-👉 <a href="https://abdelrahman.codesters-inc.com/" target="_blank"><strong>Visit my Portfolio</strong></a>
-</p>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/abdelrahmanatef4" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="Upwork" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/abdelrahman-atef-793917167" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCQfH0PTWGr-1FnXmi7tRmZg" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" alt="YouTube" height="30" width="40" style="vertical-align: middle;" />
-  </a>
-</p>
+<img src="assets/stats.svg" alt="4 apps on the App Store, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh in production in 19 days" width="100%">
 
+<br><br>
 
-<h3 align="left">🛠️ My Tech Stack:</h3>
+**[Portfolio](https://abdelrahman.codesters-inc.com/)**  ·  **[Codesters](https://codesters-inc.com/)**  ·  **[Free apps](https://free.codesters-inc.com/)**  ·  **[Email me](mailto:abdelrahman@codesters-inc.com)**
 
-- 💙 **Flutter & Dart** – Cross-platform apps with custom animations and responsive UIs  
-- 🔥 **Firebase** – Authentication, Firestore, Push Notifications  
-- 📱 **Android (Native)** – Understanding of platform channels and integration  
-- 🌐 **REST APIs** – Consuming and testing with Postman  
-- 🧪 **Testing** – Unit, Widget, and Integration testing in Flutter  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>  
-</p>
+---
+
+## Shipped. In production. In stores.
+
+Four apps built end to end at **Alhawsaba (KSA)**: payments, real-time chat, AI. All four are on the Saudi App Store and Google Play.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="assets/app-cefour.webp" alt="Cefour" width="170"></td>
+    <td align="center" width="25%"><img src="assets/app-be-trend.webp" alt="Be Trend" width="170"></td>
+    <td align="center" width="25%"><img src="assets/app-hishare.webp" alt="HiShare" width="170"></td>
+    <td align="center" width="25%"><img src="assets/app-incenter.webp" alt="InCenter" width="170"></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Cefour</b><br>Every deal, coupon and flyer in Saudi, in one app. I built the real-time stock logic, tiered wholesale and retail pricing, and multi-user store management.</td>
+    <td valign="top"><b>Be Trend</b><br>Hire the influencer, run the ad, get paid, all in one wallet. I built the wallet, multi-option payments and sub-account roles.</td>
+    <td valign="top"><b>HiShare</b><br>Customers promote you. You pay per view. I built the real-time billing engine that tracks live post views against prepaid budgets.</td>
+    <td valign="top"><b>InCenter</b><br>Run sales, brokerage and support from one AI-powered system. I built the AI chatbot, the recommendation engine, e-signatures and encryption.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://apps.apple.com/sa/app/cefour/id6476445911">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.cefour.cefour">Google Play</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/be-trend-%D8%A8%D9%8A-%D8%AA%D8%B1%D9%86%D8%AF/id1658865427">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.diwan.beTrend">Google Play</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/%D9%87%D8%A7%D9%8A-%D8%B4%D9%8A%D8%B1/id6739570429">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.hishare.platform">Google Play</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/incenter-%D8%A7%D9%86-%D8%B3%D8%AA%D8%B1/id6739746831">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.incenter.platform">Google Play</a></td>
+  </tr>
+</table>
+
+## Career, in order
+
+| When | Where | Role |
+|---|---|---|
+| Aug 2024 to now | Alhawsaba (KSA), remote | **Software Team Lead.** I design and maintain four internal Flutter packages the team builds on, cut API calls with caching for speed and lower server cost, and own the team's code review standards. |
+| May 2023 to Aug 2024 | Alhawsaba (KSA), remote | Senior Software Engineer |
+| Jun 2022 to May 2023 | Alhawsaba (KSA), remote | Mid-Level Flutter / Software Engineer |
+| Jan 2021 to Jun 2023 | Upwork, freelance | Mobile Application Developer (Flutter). Full iOS and Android apps, pixel-perfect UI from designs, performance work, hard bugs. |
+| Now | **Codesters** | Building free tools for people starting with no money. |
+
+## Codesters: free tools for people starting with no money
+
+Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/free-rayeh.webp" alt="Rayeh map: two microbuses on the line" width="170"></td>
+    <td align="center" width="33%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
+    <td align="center" width="33%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Rayeh (رايح)</b>, in pilot<br>Find your minibus. See it coming. No sign-up. I design and build the whole product: the app, the back end and the admin panel. Piloting in Hadayek October, Egypt.<br><sub>Empty repository to a production build in 19 days.</sub></td>
+    <td valign="top"><b>Fatura (فاتورة)</b>, next up<br>A free point of sale for a small shop: sell, issue invoices and watch stock from one phone. No account, no server.</td>
+    <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://rayeh.pages.dev"><img src="assets/badge-web.svg" alt="Open the Rayeh web app" width="170"></a></td>
+    <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
+    <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
+  </tr>
+</table>
+
+## Open source on pub.dev
+
+| Package | What it does |
+|---|---|
+| [`multi_reorderable`](https://pub.dev/packages/multi_reorderable) | Multi-selection and animated drag-and-drop reordering for Flutter, with pagination. |
+| [`google_place_api`](https://pub.dev/packages/google_place_api) | Google Places client: search, details, photos, autocomplete. |
+| [`flutter_rating_bar_plus`](https://pub.dev/packages/flutter_rating_bar_plus) | A maintained fork of `flutter_rating_bar`: customizable, RTL-ready, fractional precision. |
+
+Inside Alhawsaba I also built four internal libraries the whole team ships on: **Hawsaba AI** (a multi-provider engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling), **Hawsaba AI Chat**, **Hawsaba Utils** and **Hawsaba UI Kit** (40+ themed widgets).
+
+## Hackathon: 5th place
+
+<table>
+  <tr>
+    <td width="150" align="center"><img src="assets/app-sense-more.webp" alt="Sense More" width="130"></td>
+    <td valign="top"><b>Sense More.</b> Know who is in the building, on which floor, and who is on leave. Smart attendance and indoor tracking, built with my team for a Google hackathon. We took <b>5th place</b>.<br><br><a href="https://github.com/abdelrahman-atef1/Sense-More-App">Source</a></td>
+  </tr>
+</table>
+
+## How I work: AI does the typing, I own the result
+
+Not vibe coding. Cursor and Claude Code write the first draft; I own the spec, the architecture, the review and the release.
+
+- **Spec first.** Data flow, edge cases and acceptance criteria are written before any agent runs.
+- **A human reviews every diff**, against SOLID and Clean Architecture.
+- **Guardrails before review.** `flutter analyze`, custom lint rules and CI gates run on all agent-touched code.
+- **Tests ship with the code**, and I check coverage and edge cases myself.
+
+The result is speed that does not turn into debt: up to **10x more app code per working day** on a new app, measured from version history.
+
+## Stack
+
+**Core** Dart, Flutter, OOP, data structures and algorithms  ·  **State** BLoC (Cubit), GetX, Provider  ·  **Architecture** Clean Architecture, MVVM, SOLID, unit testing  ·  **Performance** memory, API caching, app size, battery  ·  **Integrations** REST, Firebase (Auth, Firestore, Messaging), Google Maps, Stripe, PayTabs, PayPal, WebSockets  ·  **Tools** Jira, Git and GitHub, Postman, Figma, Adobe XD  ·  **AI workflow** Cursor and Claude Code, multi-provider LLM engines
+
+## Contact
+
+[abdelrahman@codesters-inc.com](mailto:abdelrahman@codesters-inc.com)  ·  [support@codesters-inc.com](mailto:support@codesters-inc.com)  ·  Arabic (native), English (B2)
+
+<div align="center">
+
+<sub>أبني أدوات مجانية لمن يبدأ بلا مال</sub>
+
+</div>
