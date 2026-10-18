@@ -78,11 +78,11 @@ Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Sa
 | May 2023 to Aug 2024 | Alhawsaba (KSA), remote | Senior Software Engineer |
 | Jun 2022 to May 2023 | Alhawsaba (KSA), remote | Mid-Level Flutter / Software Engineer |
 | Jan 2021 to Jun 2023 | Upwork, freelance | Mobile Application Developer (Flutter). Full iOS and Android apps, pixel-perfect UI from designs, performance work, hard bugs. |
-| Now | **Codesters** | Building free tools for people starting with no money. |
+| Now | **Codesters** | Backing new projects. Better services for all. Free. |
 
-## Codesters: free tools for people starting with no money
+## Codesters: new projects deserve backing, communities deserve better services
 
-Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run.
+New projects deserve backing. Communities deserve better services. Both free. So every tool I build there is free to use, and built to cost almost nothing to run.
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Starting a project with no money is hard enough. So every tool I build there is 
     <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
+    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.rayeh.app">Google Play</a> · <a href="https://free.codesters-inc.com/">Free site</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
   </tr>
@@ -148,6 +148,6 @@ The result is speed that does not turn into debt: up to **10x more app code per 
 
 <div align="center">
 
-<sub>أبني أدوات مجانية لمن يبدأ بلا مال</sub>
+<sub>المشاريع الناشئة تستحق الدعم، والمجتمعات تستحق خدمات أفضل. وكلاهما بلا مقابل.</sub>
 
 </div>
