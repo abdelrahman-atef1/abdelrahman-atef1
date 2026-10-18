@@ -14,31 +14,52 @@
 
 ---
 
-## Shipped. In production. In stores.
+## What I can do, and where I proved it
 
-Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Saudi App Store and Google Play: payments, real-time chat, AI. The fifth is my own, **Rayeh**.
+| Skill | The proof |
+|---|---|
+| **Ship Flutter apps to real stores** | 5 apps in the stores, built end to end in Flutter and Dart. Professional since 2021, now Software Team Lead. |
+| **Real-time systems** | HiShare's live billing engine, Cefour's stock that hides a product the moment it sells out, live vehicles moving on Rayeh's map. Real-time chat, WebSockets. |
+| **Payments** | Be Trend's wallet with multi-option payments and secure transactions. Stripe, PayTabs and PayPal integrations. |
+| **AI products** | InCenter's AI chatbot and recommendation engine. Hawsaba AI: one engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling. |
+| **Maps and location** | Rayeh's live map, Cefour's nearby offers, Google Maps and heat maps at Alhawsaba, and the `google_place_api` package. |
+| **Architecture and shared packages** | Four internal packages the whole team builds on, including a design system of 40+ widgets. Clean Architecture, MVVM, SOLID. |
+| **Security and permissions** | InCenter's e-signatures and encryption, Be Trend's sub-account roles, secure storage in Hawsaba Utils. |
+| **Performance** | API caching that cuts calls for speed and lower server cost. Memory, app size and battery. |
+| **The whole product, alone** | Rayeh: the app, the back end and the admin panel, from an empty repository to a production build in 19 days. |
+| **Open source** | 3 packages on pub.dev (below). |
+| **Lead a team** | Own the team's code review standards at Alhawsaba. |
+| **AI-accelerated engineering, human-owned** | Cursor and Claude Code write the first draft; I own the spec, the architecture, the review and the release. Up to 10x more app code per working day on a new app. |
+
+**The stack.** Dart, Flutter, OOP, data structures and algorithms · BLoC (Cubit), GetX, Provider · Clean Architecture, MVVM, SOLID, unit testing · REST, Firebase (Auth, Firestore, Messaging), Google Maps, WebSockets · Jira, Git and GitHub, Postman, Figma, Adobe XD · Cursor and Claude Code, multi-provider LLM engines.
+
+---
+
+## The apps behind the skills
+
+Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Saudi App Store and Google Play. The fifth is my own, **Rayeh**.
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="assets/app-cefour.webp" alt="Cefour" width="140"></td>
-    <td align="center" width="20%"><img src="assets/app-be-trend.webp" alt="Be Trend" width="140"></td>
     <td align="center" width="20%"><img src="assets/app-hishare.webp" alt="HiShare" width="140"></td>
-    <td align="center" width="20%"><img src="assets/app-incenter.webp" alt="InCenter" width="140"></td>
     <td align="center" width="20%"><img src="assets/free-rayeh.webp" alt="Rayeh" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-cefour.webp" alt="Cefour" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-incenter.webp" alt="InCenter" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-be-trend.webp" alt="Be Trend" width="140"></td>
   </tr>
   <tr>
-    <td valign="top"><b>Cefour</b><br>Every deal, coupon and flyer in Saudi, in one app. I built the real-time stock logic, tiered wholesale and retail pricing, and multi-user store management.</td>
-    <td valign="top"><b>Be Trend</b><br>Hire the influencer, run the ad, get paid, all in one wallet. I built the wallet, multi-option payments and sub-account roles.</td>
     <td valign="top"><b>HiShare</b><br>Customers promote you. You pay per view. I built the real-time billing engine that tracks live post views against prepaid budgets.</td>
-    <td valign="top"><b>InCenter</b><br>Run sales, brokerage and support from one AI-powered system. I built the AI chatbot, the recommendation engine, e-signatures and encryption.</td>
     <td valign="top"><b>Rayeh (رايح)</b>, in pilot<br>Find your minibus. See it coming. No sign-up. My own free app: I design and build the app, the back end and the admin panel. Piloting in Hadayek October, Egypt.</td>
+    <td valign="top"><b>Cefour</b><br>Every deal, coupon and flyer in Saudi, in one app. I built the real-time stock logic, tiered wholesale and retail pricing, and multi-user store management.</td>
+    <td valign="top"><b>InCenter</b><br>Run sales, brokerage and support from one AI-powered system. I built the AI chatbot, the recommendation engine, e-signatures and encryption.</td>
+    <td valign="top"><b>Be Trend</b><br>Hire the influencer, run the ad, get paid, all in one wallet. I built the wallet, multi-option payments and sub-account roles.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://apps.apple.com/sa/app/cefour/id6476445911">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.cefour.cefour">Google Play</a></td>
-    <td align="center"><a href="https://apps.apple.com/sa/app/be-trend-%D8%A8%D9%8A-%D8%AA%D8%B1%D9%86%D8%AF/id1658865427">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.diwan.beTrend">Google Play</a></td>
     <td align="center"><a href="https://apps.apple.com/sa/app/%D9%87%D8%A7%D9%8A-%D8%B4%D9%8A%D8%B1/id6739570429">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.hishare.platform">Google Play</a></td>
-    <td align="center"><a href="https://apps.apple.com/sa/app/incenter-%D8%A7%D9%86-%D8%B3%D8%AA%D8%B1/id6739746831">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.incenter.platform">Google Play</a></td>
     <td align="center"><a href="https://rayeh.pages.dev">Web app</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/cefour/id6476445911">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.cefour.cefour">Google Play</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/incenter-%D8%A7%D9%86-%D8%B3%D8%AA%D8%B1/id6739746831">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.incenter.platform">Google Play</a></td>
+    <td align="center"><a href="https://apps.apple.com/sa/app/be-trend-%D8%A8%D9%8A-%D8%AA%D8%B1%D9%86%D8%AF/id1658865427">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.diwan.beTrend">Google Play</a></td>
   </tr>
 </table>
 
@@ -100,10 +121,6 @@ Not vibe coding. Cursor and Claude Code write the first draft; I own the spec, t
 - **Tests ship with the code**, and I check coverage and edge cases myself.
 
 The result is speed that does not turn into debt: up to **10x more app code per working day** on a new app, measured from version history.
-
-## Stack
-
-**Core** Dart, Flutter, OOP, data structures and algorithms  ·  **State** BLoC (Cubit), GetX, Provider  ·  **Architecture** Clean Architecture, MVVM, SOLID, unit testing  ·  **Performance** memory, API caching, app size, battery  ·  **Integrations** REST, Firebase (Auth, Firestore, Messaging), Google Maps, Stripe, PayTabs, PayPal, WebSockets  ·  **Tools** Jira, Git and GitHub, Postman, Figma, Adobe XD  ·  **AI workflow** Cursor and Claude Code, multi-provider LLM engines
 
 ## Contact
 
