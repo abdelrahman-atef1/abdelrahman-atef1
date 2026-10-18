@@ -82,18 +82,21 @@ Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Sa
 
 ## Codesters: free tools for people starting with no money
 
-Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run. **Rayeh** is the pilot, live now: from an empty repository to a production build in 19 days. Next up:
+Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run.
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
-    <td align="center" width="50%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
+    <td align="center" width="33%"><img src="assets/free-rayeh.webp" alt="Rayeh map: two microbuses on the line" width="170"></td>
+    <td align="center" width="33%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
+    <td align="center" width="33%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
   </tr>
   <tr>
+    <td valign="top"><b>Rayeh (رايح)</b>, free, in pilot<br>Find your minibus. See it coming. No sign-up. Piloting in Hadayek October, Egypt. Empty repository to a production build in 19 days.</td>
     <td valign="top"><b>Fatura (فاتورة)</b>, next up<br>A free point of sale for a small shop: sell, issue invoices and watch stock from one phone. No account, no server.</td>
     <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
   </tr>
