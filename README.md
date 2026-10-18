@@ -12,13 +12,7 @@
 
 <br><br>
 
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-top-rated.svg" alt="Upwork Top Rated" height="52"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-jss.svg" alt="Upwork 100% Job Success" height="52"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-stars.svg" alt="Upwork 5 Stars" height="52"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-rising.svg" alt="Upwork Rising Talent" height="52"></a>
-<br>
-<img src="assets/badge-hackathon.svg" alt="Google Hackathon, 5th place" height="52">
-<img src="assets/badge-stores.svg" alt="5 apps shipped to the stores" height="52">
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-strip.svg" alt="Upwork: Top Rated, 100% Job Success, 5 Stars, Rising Talent" height="36"></a>
 <br><br>
 <img src="assets/tech.svg" alt="Flutter, Dart, Firebase, BLoC, GetX, Clean Architecture, MVVM, SOLID, REST, WebSockets, Google Maps, Stripe, PayTabs, Claude Code, Cursor, Git" width="100%">
 

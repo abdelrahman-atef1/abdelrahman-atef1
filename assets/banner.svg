@@ -19,11 +19,6 @@
 <text x="62" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="url(#nm)">Abdelrahman Atef</text>
 <rect x="64" y="192" width="170" height="7" rx="3.5" fill="url(#ac)"/>
 <text x="64" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#dbeafe">I ship Flutter apps to production, and back new projects with better services, free.</text>
-<g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">
-<g transform="translate(64 272)"><rect width="168" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#5eead4" stroke-opacity=".7"/><text x="84" y="22" text-anchor="middle" fill="#ccfbf1">10 apps built</text></g>
-<g transform="translate(244 272)"><rect width="190" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#60a5fa" stroke-opacity=".7"/><text x="95" y="22" text-anchor="middle" fill="#dbeafe">16 packages built</text></g>
-<g transform="translate(446 272)"><rect width="200" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#c084fc" stroke-opacity=".7"/><text x="100" y="22" text-anchor="middle" fill="#f3e8ff">5th, Google hackathon</text></g>
-</g>
 <rect x="-300" y="0" width="260" height="340" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-300;1500" dur="6s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="url(#ac)" stroke-opacity=".7" stroke-width="2"/>

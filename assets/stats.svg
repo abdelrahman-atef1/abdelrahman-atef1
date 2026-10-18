@@ -5,24 +5,24 @@
 <rect width="282" height="200" rx="18" fill="url(#cb)"/><rect x="1" y="1" width="280" height="198" rx="17" fill="none" stroke="url(#s0)" stroke-width="2"/>
 <path d="M18 0H264a18 18 0 0 1 18 18V70C190 96 90 96 0 70V18A18 18 0 0 1 18 0Z" fill="#fff" fill-opacity=".07"/>
 <rect x="60" y="0" width="162" height="4" rx="2" fill="url(#s0)"/>
-<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s0)" filter="url(#glow)">10</text>
+<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s0)">10</text>
 <text x="141" y="142" text-anchor="middle" font-size="20" font-weight="600" fill="#f1f5f9">apps built in total</text>
 <text x="141" y="170" text-anchor="middle" font-size="16" fill="#94a3b8">(5 in the stores)</text></g><g transform="translate(306 0)">
 <rect width="282" height="200" rx="18" fill="url(#cb)"/><rect x="1" y="1" width="280" height="198" rx="17" fill="none" stroke="url(#s1)" stroke-width="2"/>
 <path d="M18 0H264a18 18 0 0 1 18 18V70C190 96 90 96 0 70V18A18 18 0 0 1 18 0Z" fill="#fff" fill-opacity=".07"/>
 <rect x="60" y="0" width="162" height="4" rx="2" fill="url(#s1)"/>
-<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s1)" filter="url(#glow)">16</text>
+<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s1)">16</text>
 <text x="141" y="142" text-anchor="middle" font-size="20" font-weight="600" fill="#f1f5f9">packages built in total</text>
 <text x="141" y="170" text-anchor="middle" font-size="16" fill="#94a3b8">(3 on pub.dev)</text></g><g transform="translate(612 0)">
 <rect width="282" height="200" rx="18" fill="url(#cb)"/><rect x="1" y="1" width="280" height="198" rx="17" fill="none" stroke="url(#s2)" stroke-width="2"/>
 <path d="M18 0H264a18 18 0 0 1 18 18V70C190 96 90 96 0 70V18A18 18 0 0 1 18 0Z" fill="#fff" fill-opacity=".07"/>
 <rect x="60" y="0" width="162" height="4" rx="2" fill="url(#s2)"/>
-<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s2)" filter="url(#glow)">5th</text>
+<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s2)">5th</text>
 <text x="141" y="142" text-anchor="middle" font-size="20" font-weight="600" fill="#f1f5f9">place, Google hackathon</text>
 <text x="141" y="170" text-anchor="middle" font-size="16" fill="#94a3b8">Sense More, with my team</text></g><g transform="translate(918 0)">
 <rect width="282" height="200" rx="18" fill="url(#cb)"/><rect x="1" y="1" width="280" height="198" rx="17" fill="none" stroke="url(#s3)" stroke-width="2"/>
 <path d="M18 0H264a18 18 0 0 1 18 18V70C190 96 90 96 0 70V18A18 18 0 0 1 18 0Z" fill="#fff" fill-opacity=".07"/>
 <rect x="60" y="0" width="162" height="4" rx="2" fill="url(#s3)"/>
-<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s3)" filter="url(#glow)">2</text>
+<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s3)">2</text>
 <text x="141" y="142" text-anchor="middle" font-size="20" font-weight="600" fill="#f1f5f9">weeks to a working app</text>
 <text x="141" y="170" text-anchor="middle" font-size="16" fill="#94a3b8">Rayeh, from an empty page</text></g></g></svg>

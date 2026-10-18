@@ -29,11 +29,6 @@ out("banner.svg", `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="
 <text x="62" y="170" ${F} font-size="76" font-weight="800" fill="url(#nm)">Abdelrahman Atef</text>
 <rect x="64" y="192" width="170" height="7" rx="3.5" fill="url(#ac)"/>
 <text x="64" y="244" ${F} font-size="26" fill="#dbeafe">I ship Flutter apps to production, and back new projects with better services, free.</text>
-<g ${F} font-size="16" font-weight="700">
-<g transform="translate(64 272)"><rect width="168" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#5eead4" stroke-opacity=".7"/><text x="84" y="22" text-anchor="middle" fill="#ccfbf1">10 apps built</text></g>
-<g transform="translate(244 272)"><rect width="190" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#60a5fa" stroke-opacity=".7"/><text x="95" y="22" text-anchor="middle" fill="#dbeafe">16 packages built</text></g>
-<g transform="translate(446 272)"><rect width="200" height="34" rx="17" fill="#fff" fill-opacity=".1" stroke="#c084fc" stroke-opacity=".7"/><text x="100" y="22" text-anchor="middle" fill="#f3e8ff">5th, Google hackathon</text></g>
-</g>
 <rect x="-300" y="0" width="260" height="340" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-300;1500" dur="6s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="url(#ac)" stroke-opacity=".7" stroke-width="2"/>
@@ -54,7 +49,7 @@ cards.forEach(([n, l, s], i) => {
 <rect width="282" height="200" rx="18" fill="url(#cb)"/><rect x="1" y="1" width="280" height="198" rx="17" fill="none" stroke="url(#s${i})" stroke-width="2"/>
 <path d="M18 0H264a18 18 0 0 1 18 18V70C190 96 90 96 0 70V18A18 18 0 0 1 18 0Z" fill="#fff" fill-opacity=".07"/>
 <rect x="60" y="0" width="162" height="4" rx="2" fill="url(#s${i})"/>
-<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s${i})" filter="url(#glow)">${n}</text>
+<text x="141" y="102" text-anchor="middle" font-size="88" font-weight="800" fill="url(#s${i})">${n}</text>
 <text x="141" y="142" text-anchor="middle" font-size="20" font-weight="600" fill="#f1f5f9">${esc(l)}</text>
 <text x="141" y="170" text-anchor="middle" font-size="16" fill="#94a3b8">${esc(s)}</text></g>`;
 });
@@ -94,39 +89,16 @@ rows.forEach((row, ri) => {
 out("tech.svg", `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Tech: ${tech.map((t) => t[0]).join(", ")}"><defs>${defs}</defs><g ${F}>${tp}</g></svg>
 `);
 
-// ---------- achievement badges ----------
-const star = (cx, cy, r) => {
-  const p = [];
-  for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + i * Math.PI / 5, rr = i % 2 ? r * 0.45 : r; p.push((cx + rr * Math.cos(a)).toFixed(1) + "," + (cy + rr * Math.sin(a)).toFixed(1)); }
-  return `<polygon points="${p.join(" ")}" fill="#fff"/>`;
-};
-const icons = {
-  star: star(32, 33, 14),
-  check: `<path d="M23 33l6 6 12-14" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>`,
-  up: `<path d="M32 42V23M23 31l9-9 9 9" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>`,
-  cup: `<path d="M24 22h16v8a8 8 0 0 1-16 0zM24 25h-4a4 4 0 0 0 4 6M40 25h4a4 4 0 0 1-4 6M32 38v5M26 44h12" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>`,
-  phone: `<rect x="24" y="19" width="16" height="26" rx="4" fill="none" stroke="#fff" stroke-width="3.2"/><circle cx="32" cy="40" r="1.8" fill="#fff"/>`,
-};
-const badges = [
-  ["upwork-top-rated.svg", "UPWORK", "Top Rated", "#22c55e", "#15803d", "star", "#4ade80"],
-  ["upwork-jss.svg", "UPWORK", "100% Job Success", "#22c55e", "#0e7490", "check", "#4ade80"],
-  ["upwork-stars.svg", "UPWORK", "5 Stars", "#fbbf24", "#d97706", "star", "#fde68a"],
-  ["upwork-rising.svg", "UPWORK", "Rising Talent", "#38bdf8", "#6366f1", "up", "#7dd3fc"],
-  ["badge-hackathon.svg", "GOOGLE HACKATHON", "5th Place", "#c084fc", "#db2777", "cup", "#e9d5ff"],
-  ["badge-stores.svg", "IN THE STORES", "5 Apps Shipped", "#2dd4bf", "#2563eb", "phone", "#99f6e4"],
-];
-for (const [file, top, name, c1, c2, ic, tc] of badges) {
-  const W = Math.max(250, Math.round(name.length * 12.5 + 112)), id = file.replace(/\W/g, "");
-  out(file, `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="64" viewBox="0 0 ${W} 64" role="img" aria-label="${esc(top)} ${esc(name)}">
-<defs><linearGradient id="${id}b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${c1}"/><stop offset="1" stop-color="${c2}"/></linearGradient>
-<linearGradient id="${id}f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2744"/><stop offset="1" stop-color="#0a1120"/></linearGradient>
-<radialGradient id="${id}m" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="${tc}"/><stop offset=".45" stop-color="${c1}"/><stop offset="1" stop-color="${c2}"/></radialGradient></defs>
-<rect width="${W}" height="64" rx="14" fill="url(#${id}f)"/><rect x="1.5" y="1.5" width="${W - 3}" height="61" rx="12.5" fill="none" stroke="url(#${id}b)" stroke-width="2.5"/>
-<path d="M16 2H${W - 16}a14 14 0 0 1 12 8C${W * 0.6} 30 ${W * 0.3} 30 2 10A14 14 0 0 1 16 2Z" fill="#fff" fill-opacity=".1"/>
-<circle cx="34" cy="32" r="22" fill="url(#${id}m)"/><circle cx="34" cy="32" r="22" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"/>
-<ellipse cx="29" cy="21" rx="12" ry="6" fill="#fff" fill-opacity=".25"/><g transform="translate(2 0)">${icons[ic]}</g>
-<text x="68" y="26" ${F} font-size="12" font-weight="700" letter-spacing="2" fill="${tc}">${esc(top)}</text>
-<text x="68" y="48" ${F} font-size="21" font-weight="800" fill="#fff">${esc(name)}</text></svg>
+// ---------- compact Upwork strip (one line) ----------
+{
+  const items = [["Top Rated", "#22c55e"], ["100% Job Success", "#22c55e"], ["5 Stars", "#fbbf24"], ["Rising Talent", "#38bdf8"]];
+  let x = 84, g = '<text x="0" y="23" font-size="13" font-weight="800" letter-spacing="2" fill="#94a3b8">UPWORK</text>';
+  for (const [t, c] of items) {
+    const w = Math.round(t.length * 8.4 + 36);
+    g += `<g transform="translate(${x} 0)"><rect width="${w}" height="34" rx="17" fill="${c}" fill-opacity=".14" stroke="${c}" stroke-opacity=".75"/><circle cx="17" cy="17" r="4" fill="${c}"/><text x="30" y="22" font-size="14" font-weight="700" fill="#e2e8f0">${t}</text></g>`;
+    x += w + 10;
+  }
+  out("upwork-strip.svg", `<svg xmlns="http://www.w3.org/2000/svg" width="${x}" height="36" viewBox="0 0 ${x} 36" role="img" aria-label="Upwork: Top Rated, 100% Job Success, 5 Stars, Rising Talent"><g ${F}>${g}</g></svg>
 `);
 }
 
