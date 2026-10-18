@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/stats.svg" alt="8 apps built, 5 in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh from an empty page to a working app in 2 weeks" width="100%">
+<img src="assets/stats.svg" alt="10 apps built in total (5 in the stores), 16 packages built in total (3 on pub.dev), 5th place at a Google hackathon, Rayeh from an empty page to a working app in 2 weeks" width="100%">
 
 <br><br>
 
@@ -12,10 +12,15 @@
 
 <br><br>
 
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-top-rated.svg" alt="Upwork Top Rated" width="200"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-jss.svg" alt="Upwork 100% Job Success" width="200"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-stars.svg" alt="Upwork 5 Stars" width="200"></a>
-<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-rising.svg" alt="Upwork Rising Talent" width="200"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-top-rated.svg" alt="Upwork Top Rated" height="52"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-jss.svg" alt="Upwork 100% Job Success" height="52"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-stars.svg" alt="Upwork 5 Stars" height="52"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-rising.svg" alt="Upwork Rising Talent" height="52"></a>
+<br>
+<img src="assets/badge-hackathon.svg" alt="Google Hackathon, 5th place" height="52">
+<img src="assets/badge-stores.svg" alt="5 apps shipped to the stores" height="52">
+<br><br>
+<img src="assets/tech.svg" alt="Flutter, Dart, Firebase, BLoC, GetX, Clean Architecture, MVVM, SOLID, REST, WebSockets, Google Maps, Stripe, PayTabs, Claude Code, Cursor, Git" width="100%">
 
 </div>
 
@@ -25,16 +30,16 @@
 
 | Skill | The proof |
 |---|---|
-| **Ship Flutter apps to real stores** | 5 apps in the stores, built end to end in Flutter and Dart. Professional since 2021, now Software Team Lead. |
+| **Ship Flutter apps to real stores** | 10 apps built in total (5 in the stores), end to end in Flutter and Dart. Professional since 2021, now Software Team Lead. |
 | **Real-time systems** | HiShare's live billing engine, Cefour's stock that hides a product the moment it sells out, live vehicles moving on Rayeh's map. Real-time chat, WebSockets. |
-| **Payments** | Be Trend's wallet with multi-option payments and secure transactions. Stripe, PayTabs and PayPal integrations. |
-| **AI products** | InCenter's AI chatbot and recommendation engine. Hawsaba AI: one engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling. |
+| **Payments** | Be Trend's wallet with multi-option payments and secure transactions. Stripe, PayTabs and PayPal integrations. The wallet module: top up, withdraw, saved accounts, IBAN checks. |
+| **AI products** | InCenter's AI chatbot and recommendation engine. Hawsaba AI: one engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling. NutriAI: photograph a meal, get the log and a plan. |
 | **Maps and location** | Rayeh's live map, Cefour's nearby offers, Google Maps and heat maps at Alhawsaba, and the `google_place_api` package. |
-| **Architecture and shared packages** | Four internal packages the whole team builds on, including a design system of 40+ widgets. Clean Architecture, MVVM, SOLID. |
-| **Security and permissions** | InCenter's e-signatures and encryption, Be Trend's sub-account roles, secure storage in Hawsaba Utils. |
+| **Architecture and shared packages** | Internal packages the whole team builds on, including a design system of 40+ widgets, a chat module, a wallet module and a background uploader. Clean Architecture, MVVM, SOLID. |
+| **Security and permissions** | InCenter's e-signatures and encryption, Be Trend's sub-account roles, secure storage in Hawsaba Utils. I wrote a demo that pulls the same API key out of seven Flutter setups, and shows the one that survives. |
 | **Performance** | API caching that cuts calls for speed and lower server cost. Memory, app size and battery. |
 | **The whole product, alone** | Rayeh: the app, the back end and the admin panel, from an empty page to a working app in two weeks. |
-| **Open source** | 3 packages on pub.dev (below). |
+| **Open source** | 16 packages built in total (3 on pub.dev), below. |
 | **Lead a team** | Own the team's code review standards at Alhawsaba. |
 | **AI-accelerated engineering, human-owned** | Cursor and Claude Code write the first draft; I own the spec, the architecture, the review and the release. Up to 10x more app code per working day on a new app. |
 
@@ -44,7 +49,7 @@
 
 ## The apps behind the skills
 
-Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Saudi App Store and Google Play. The fifth is my own, **Rayeh**.
+Ten apps built in total, five of them in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Saudi App Store and Google Play. The fifth is my own, **Rayeh**.
 
 <table>
   <tr>
@@ -86,17 +91,20 @@ New projects deserve backing. Communities deserve better services. Both free. So
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/free-rayeh.webp" alt="Rayeh map: two microbuses on the line" width="170"></td>
-    <td align="center" width="33%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
-    <td align="center" width="33%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
+    <td align="center" width="25%"><img src="assets/free-rayeh.webp" alt="Rayeh map: two microbuses on the line" width="170"></td>
+    <td align="center" width="25%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
+    <td align="center" width="25%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
+    <td align="center" width="25%"><img src="assets/whisper-flow.svg" alt="Whisper Flow" width="170"></td>
   </tr>
   <tr>
     <td valign="top"><b>Rayeh (رايح)</b>, free, in pilot<br>Find your minibus. See it coming. No sign-up. Piloting in Hadayek October, Egypt. Empty page to a working app in two weeks.</td>
     <td valign="top"><b>Fatura (فاتورة)</b>, next up<br>A free point of sale for a small shop: sell, issue invoices and watch stock from one phone. No account, no server.</td>
     <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
+    <td valign="top"><b>Whisper Flow</b>, next up<br>Talk, and your words appear in any text box. On your own computer. Arabic and English. Windows first. Built on <a href="https://github.com/cjpais/Handy">Handy</a>, the open-source dictation app by CJ Pais (MIT).</td>
   </tr>
   <tr>
     <td align="center"><a href="https://play.google.com/store/apps/details?id=com.rayeh.app">Google Play</a> · <a href="https://free.codesters-inc.com/">Free site</a></td>
+    <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
   </tr>
@@ -120,7 +128,7 @@ Top Rated, 100% Job Success, 5 stars, Rising Talent. Freelance Flutter work sinc
 | [`google_place_api`](https://pub.dev/packages/google_place_api) | Google Places client: search, details, photos, autocomplete. |
 | [`flutter_rating_bar_plus`](https://pub.dev/packages/flutter_rating_bar_plus) | A maintained fork of `flutter_rating_bar`: customizable, RTL-ready, fractional precision. |
 
-Inside Alhawsaba I also built four internal libraries the whole team ships on: **Hawsaba AI** (a multi-provider engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling), **Hawsaba AI Chat**, **Hawsaba Utils** and **Hawsaba UI Kit** (40+ themed widgets).
+Inside Alhawsaba I also built the shared libraries the whole team ships on: **Hawsaba AI** (a multi-provider engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling), **Hawsaba AI Chat**, **Hawsaba Utils**, **Hawsaba UI Kit** (40+ themed widgets), plus chat, wallet, socket, background uploads, file picking and network status. With my own three, that is 16 packages built in total.
 
 ## Hackathon: 5th place
 
