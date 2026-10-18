@@ -42,7 +42,7 @@ const card = (i, [n, label]) => {
 };
 const langLine = topLangs.map(([l, c]) => `${l} ${c}`).join('   ·   ');
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1182" height="160" viewBox="0 0 1182 160" role="img" aria-label="GitHub: ${own.length} public repositories, ${user.followers} followers, ${years} years">
-<defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+<defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#5eead4"/></linearGradient></defs>
 ${cells.map((c, i) => card(i, c)).join('\n')}
 <text x="591" y="148" text-anchor="middle" ${F} font-size="14" fill="#64748b">Own repositories by language: ${esc(langLine)}</text>
 </svg>

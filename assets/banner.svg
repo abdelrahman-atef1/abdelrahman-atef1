@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Abdelrahman Atef, Senior Flutter Developer">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1a"/><stop offset=".5" stop-color="#0e2146"/><stop offset="1" stop-color="#0a6f66"/></linearGradient>
-<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
-<linearGradient id="nm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#bfdbfe"/></linearGradient>
-<radialGradient id="g1" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5eead4" stop-opacity=".55"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
-<radialGradient id="g2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#a78bfa" stop-opacity=".5"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f19"/><stop offset="1" stop-color="#151c2c"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#cbd5e1"/></linearGradient>
+<radialGradient id="g1" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#5eead4" stop-opacity=".3"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
 <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern>
 <clipPath id="r"><rect width="1200" height="340" rx="22"/></clipPath>
@@ -12,13 +11,12 @@
 <g clip-path="url(#r)">
 <rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
 <circle cx="1010" cy="60" r="260" fill="url(#g1)"><animate attributeName="cx" values="1010;960;1010" dur="9s" repeatCount="indefinite"/></circle>
-<circle cx="140" cy="330" r="240" fill="url(#g2)"><animate attributeName="cx" values="140;200;140" dur="11s" repeatCount="indefinite"/></circle>
 <g fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="1.5"><circle cx="1040" cy="90" r="170"/><circle cx="1040" cy="90" r="118"/><circle cx="1040" cy="90" r="66"/></g>
-<g transform="translate(1040 90)"><path d="M-26 8 L10 -28 H34 L-2 8 Z" fill="#5eead4" opacity=".9"/><path d="M-26 8 L-2 32 H22 L-2 8 Z" fill="#60a5fa" opacity=".9"/><path d="M-2 8 L10 -4 L34 20 H10 Z" fill="#c084fc" opacity=".7"/></g>
+<g transform="translate(1040 90)"><path d="M-26 8 L10 -28 H34 L-2 8 Z" fill="#5eead4" opacity=".9"/><path d="M-26 8 L-2 32 H22 L-2 8 Z" fill="#e2e8f0" opacity=".85"/><path d="M-2 8 L10 -4 L34 20 H10 Z" fill="#94a3b8" opacity=".7"/></g>
 <text x="64" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6" fill="#5eead4">SENIOR FLUTTER DEVELOPER</text>
 <text x="62" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="url(#nm)">Abdelrahman Atef</text>
 <rect x="64" y="192" width="170" height="7" rx="3.5" fill="url(#ac)"/>
-<text x="64" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#dbeafe">I ship Flutter apps to production, and back new projects with better services, free.</text>
+<text x="64" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#cbd5e1">I ship Flutter apps to production, and back new projects with better services, free.</text>
 <rect x="-300" y="0" width="260" height="340" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-300;1500" dur="6s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="url(#ac)" stroke-opacity=".7" stroke-width="2"/>
