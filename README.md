@@ -10,6 +10,13 @@
 
 **[Portfolio](https://abdelrahman.codesters-inc.com/)**  ·  **[Codesters](https://codesters-inc.com/)**  ·  **[Free apps](https://free.codesters-inc.com/)**  ·  **[Email me](mailto:abdelrahman@codesters-inc.com)**
 
+<br><br>
+
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-top-rated.svg" alt="Upwork Top Rated" width="200"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-jss.svg" alt="Upwork 100% Job Success" width="200"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-stars.svg" alt="Upwork 5 Stars" width="200"></a>
+<a href="https://www.upwork.com/freelancers/abdelrahmanatef4"><img src="assets/upwork-rising.svg" alt="Upwork Rising Talent" width="200"></a>
+
 </div>
 
 ---
@@ -91,6 +98,16 @@ Starting a project with no money is hard enough. So every tool I build there is 
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
   </tr>
 </table>
+
+## Proven on Upwork
+
+Top Rated, 100% Job Success, 5 stars, Rising Talent. Freelance Flutter work since January 2021: full iOS and Android apps, pixel-perfect UI from designs, performance work, hard bugs.
+
+**[See my Upwork profile](https://www.upwork.com/freelancers/abdelrahmanatef4)**
+
+## On GitHub
+
+<img src="assets/github-stats.svg" alt="GitHub: 8 years, 12 public repositories, Dart most used, 8 followers" width="100%">
 
 ## Open source on pub.dev
 

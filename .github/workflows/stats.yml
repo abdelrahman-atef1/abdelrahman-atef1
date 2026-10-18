@@ -1,0 +1,27 @@
+# Refreshes assets/github-stats.svg once a week. Commits only inside this repo, with the workflow's own token.
+# Idle cost is zero: one short run a week, nothing in between.
+name: Refresh GitHub stats
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: node .github/scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain assets/github-stats.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/github-stats.svg
+            git commit -m "Refresh GitHub stats"
+            git push
+          fi

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1182" height="160" viewBox="0 0 1182 160" role="img" aria-label="GitHub: 12 public repositories, 8 followers, 8 years">
+<defs><linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+<rect x="0" y="0" width="282" height="120" rx="14" fill="#0f172a"/>
+<text x="141" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#n)">8</text>
+<text x="141" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#e2e8f0">years on GitHub</text>
+<rect x="300" y="0" width="282" height="120" rx="14" fill="#0f172a"/>
+<text x="441" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#n)">12</text>
+<text x="441" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#e2e8f0">public repositories</text>
+<rect x="600" y="0" width="282" height="120" rx="14" fill="#0f172a"/>
+<text x="741" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#n)">Dart</text>
+<text x="741" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#e2e8f0">most-used language</text>
+<rect x="900" y="0" width="282" height="120" rx="14" fill="#0f172a"/>
+<text x="1041" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#n)">8</text>
+<text x="1041" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#e2e8f0">followers</text>
+<text x="591" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#64748b">Own repositories by language: Dart 8   ·   JavaScript 1   ·   C++ 1</text>
+</svg>
