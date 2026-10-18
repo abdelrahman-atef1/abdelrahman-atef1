@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/stats.svg" alt="4 apps on the App Store, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh in production in 19 days" width="100%">
+<img src="assets/stats.svg" alt="5 apps in the stores, 3 packages on pub.dev, 5th place at a Google hackathon, Rayeh in production in 19 days" width="100%">
 
 <br><br>
 
@@ -16,26 +16,29 @@
 
 ## Shipped. In production. In stores.
 
-Four apps built end to end at **Alhawsaba (KSA)**: payments, real-time chat, AI. All four are on the Saudi App Store and Google Play.
+Five apps in the stores. Four built end to end at **Alhawsaba (KSA)**, on the Saudi App Store and Google Play: payments, real-time chat, AI. The fifth is my own, **Rayeh**.
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="assets/app-cefour.webp" alt="Cefour" width="170"></td>
-    <td align="center" width="25%"><img src="assets/app-be-trend.webp" alt="Be Trend" width="170"></td>
-    <td align="center" width="25%"><img src="assets/app-hishare.webp" alt="HiShare" width="170"></td>
-    <td align="center" width="25%"><img src="assets/app-incenter.webp" alt="InCenter" width="170"></td>
+    <td align="center" width="20%"><img src="assets/app-cefour.webp" alt="Cefour" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-be-trend.webp" alt="Be Trend" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-hishare.webp" alt="HiShare" width="140"></td>
+    <td align="center" width="20%"><img src="assets/app-incenter.webp" alt="InCenter" width="140"></td>
+    <td align="center" width="20%"><img src="assets/free-rayeh.webp" alt="Rayeh" width="140"></td>
   </tr>
   <tr>
     <td valign="top"><b>Cefour</b><br>Every deal, coupon and flyer in Saudi, in one app. I built the real-time stock logic, tiered wholesale and retail pricing, and multi-user store management.</td>
     <td valign="top"><b>Be Trend</b><br>Hire the influencer, run the ad, get paid, all in one wallet. I built the wallet, multi-option payments and sub-account roles.</td>
     <td valign="top"><b>HiShare</b><br>Customers promote you. You pay per view. I built the real-time billing engine that tracks live post views against prepaid budgets.</td>
     <td valign="top"><b>InCenter</b><br>Run sales, brokerage and support from one AI-powered system. I built the AI chatbot, the recommendation engine, e-signatures and encryption.</td>
+    <td valign="top"><b>Rayeh (رايح)</b>, in pilot<br>Find your minibus. See it coming. No sign-up. My own free app: I design and build the app, the back end and the admin panel. Piloting in Hadayek October, Egypt.</td>
   </tr>
   <tr>
     <td align="center"><a href="https://apps.apple.com/sa/app/cefour/id6476445911">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.cefour.cefour">Google Play</a></td>
     <td align="center"><a href="https://apps.apple.com/sa/app/be-trend-%D8%A8%D9%8A-%D8%AA%D8%B1%D9%86%D8%AF/id1658865427">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.diwan.beTrend">Google Play</a></td>
     <td align="center"><a href="https://apps.apple.com/sa/app/%D9%87%D8%A7%D9%8A-%D8%B4%D9%8A%D8%B1/id6739570429">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.hishare.platform">Google Play</a></td>
     <td align="center"><a href="https://apps.apple.com/sa/app/incenter-%D8%A7%D9%86-%D8%B3%D8%AA%D8%B1/id6739746831">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.incenter.platform">Google Play</a></td>
+    <td align="center"><a href="https://rayeh.pages.dev">Web app</a></td>
   </tr>
 </table>
 
@@ -51,21 +54,18 @@ Four apps built end to end at **Alhawsaba (KSA)**: payments, real-time chat, AI.
 
 ## Codesters: free tools for people starting with no money
 
-Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run.
+Starting a project with no money is hard enough. So every tool I build there is free to use, and built to cost almost nothing to run. **Rayeh** is the pilot, live now: from an empty repository to a production build in 19 days. Next up:
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/free-rayeh.webp" alt="Rayeh map: two microbuses on the line" width="170"></td>
-    <td align="center" width="33%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
-    <td align="center" width="33%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
+    <td align="center" width="50%"><img src="assets/free-fatura.webp" alt="Fatura sell screen" width="170"></td>
+    <td align="center" width="50%"><img src="assets/free-bezra.webp" alt="Bezra today list" width="170"></td>
   </tr>
   <tr>
-    <td valign="top"><b>Rayeh (رايح)</b>, in pilot<br>Find your minibus. See it coming. No sign-up. I design and build the whole product: the app, the back end and the admin panel. Piloting in Hadayek October, Egypt.<br><sub>Empty repository to a production build in 19 days.</sub></td>
     <td valign="top"><b>Fatura (فاتورة)</b>, next up<br>A free point of sale for a small shop: sell, issue invoices and watch stock from one phone. No account, no server.</td>
     <td valign="top"><b>Bezra (بذرة)</b>, next up<br>A free daily planner for small habits: a short list for today, reminders from your phone, no account.</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://rayeh.pages.dev"><img src="assets/badge-web.svg" alt="Open the Rayeh web app" width="170"></a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
     <td align="center"><a href="https://free.codesters-inc.com/">free.codesters-inc.com</a></td>
   </tr>
