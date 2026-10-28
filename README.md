@@ -33,9 +33,10 @@
 | **Security and permissions** | InCenter's e-signatures and encryption, Be Trend's sub-account roles, secure storage in Hawsaba Utils. I wrote a demo that pulls the same API key out of seven Flutter setups, and shows the one that survives. |
 | **Performance** | API caching that cuts calls for speed and lower server cost. Memory, app size and battery. |
 | **The whole product, alone** | Rayeh: the app, the back end and the admin panel, from an empty page to a working app in two weeks. |
-| **Open source** | 16 packages built in total (3 on pub.dev), below. |
+| **Open source** | 16 packages built in total (3 on pub.dev), plus a faster task tracker (beads-lite) and its board, below. |
 | **Lead a team** | Own the team's code review standards at Alhawsaba. |
 | **AI-accelerated engineering, human-owned** | Cursor and Claude Code write the first draft; I own the spec, the architecture, the review and the release. Up to 10x more app code per working day on a new app. |
+| **Fix the slow tool** | Our task tracker took 7 to 23 seconds per command and 30 to 90 seconds to refresh its board. I measured it on real data, built a SQLite fork, and moved every company project onto it. |
 
 **The stack.** Dart, Flutter, OOP, data structures and algorithms · BLoC (Cubit), GetX, Provider · Clean Architecture, MVVM, SOLID, unit testing · REST, Firebase (Auth, Firestore, Messaging), Google Maps, WebSockets · Jira, Git and GitHub, Postman, Figma, Adobe XD · Cursor and Claude Code, multi-provider LLM engines.
 
@@ -123,6 +124,14 @@ Top Rated, 100% Job Success, 5 stars, Rising Talent. Freelance Flutter work sinc
 | [`flutter_rating_bar_plus`](https://pub.dev/packages/flutter_rating_bar_plus) | A maintained fork of `flutter_rating_bar`: customizable, RTL-ready, fractional precision. |
 
 Inside Alhawsaba I also built the shared libraries the whole team ships on: **Hawsaba AI** (a multi-provider engine over OpenAI, Anthropic, Gemini and DeepSeek, with streaming, automatic fallback and tool-calling), **Hawsaba AI Chat**, **Hawsaba Utils**, **Hawsaba UI Kit** (40+ themed widgets), plus chat, wallet, socket, background uploads, file picking and network status. With my own three, that is 16 packages built in total.
+
+
+## Open source: a faster task tracker for agents and humans
+
+Our task tracker (beads) got too slow as the work grew: on our real data, `list`, `show` and `ready` took 7 to 23 seconds each, and refreshing the board took 30 to 90 seconds. I measured it first, then built a lighter store.
+
+- **[beads-lite](https://github.com/abdelrahman-atef1/beads-lite)** (MIT): a Go fork of [beads](https://github.com/gastownhall/beads) on SQLite. Same commands and JSON shapes, and the old store stays as the way back. In the prototype on our data, a command took about 0.3 seconds per process. Every company project was migrated with a backup and a field-by-field comparison.
+- **[beads-lite-ui](https://github.com/abdelrahman-atef1/beads-lite-ui)**: the board, rebuilt. Board refresh is down from 30 to 90 seconds to about 1 to 2 seconds. Board v2 (in progress) adds a phone door over Tailscale (tailnet only), a decisions feed that wakes the agent that asked, and bug reports with a screenshot.
 
 ## Hackathon: 5th place
 
